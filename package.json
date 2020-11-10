@@ -1,5 +1,5 @@
 {
-  "name": "mern-todo",
+  "name": "todo",
   "version": "1.0.0",
   "description": "building todo app using mongodb, express, react and nodejs",
   "main": "index.js",
@@ -17,6 +17,7 @@
     "mongoose": "^5.3.6"
   },
   "devDependencies": {
+    "concurrently": "^4.0.1",
     "nodemon": "^1.18.4"
   }
 }
